@@ -11,3 +11,4 @@ This repository is a practice laboratory.
 Natalia Rodriguez Guevara
 
 ## References
+[Git pro book](https://git-scm.com/book/en/v2)
