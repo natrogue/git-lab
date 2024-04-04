@@ -12,6 +12,11 @@ def (a,b)
 return a+b
 ```
 
+### lists
+- [ ] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ### Images
 ![Checo](https://github.com/natrogue28/git-lab/blob/e33cc7d0aef94be3830ad4c7cbc6271feb995db2/sergio-perez-red-bull-racing-i.jpg)
 
