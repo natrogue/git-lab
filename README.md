@@ -8,7 +8,7 @@ This repository is a practice laboratory.
 ## Contents
 
 ### Images
-![Deltarune](https://github.com/natrogue28/git-lab/blob/a97ac3dfa2eb30f1d2cc4fe941af50cd65996b43/IMG_9971.GIF)
+![Checo](https://github.com/natrogue28/git-lab/blob/e33cc7d0aef94be3830ad4c7cbc6271feb995db2/sergio-perez-red-bull-racing-i.jpg)
 
 Natalia Rodriguez Guevara
 
