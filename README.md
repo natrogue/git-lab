@@ -19,6 +19,7 @@ return a+b
 
 ### Images
 ![Checo](https://github.com/natrogue28/git-lab/blob/e33cc7d0aef94be3830ad4c7cbc6271feb995db2/sergio-perez-red-bull-racing-i.jpg)
+![Deltarune](https://github.com/natrogue28/git-lab/blob/1655c3630dc5b37fb3d65d1037236deb48328a4a/IMG_9971.GIF)
 
 Natalia Rodriguez Guevara
 
